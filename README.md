@@ -1,4 +1,3 @@
-# company account of @9033
 ### Hi there 👋
 
 <!--
